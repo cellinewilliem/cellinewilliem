@@ -4,7 +4,7 @@
 🤔 Interested in Data & AI\
 💼 Knowledge Engineer at Impala Services Ltd\
 🎓 CUHK Shenzhen grad with a Bachelor of Science in Data Science and Big Data Technology. \
-📚 I'm currently improving my skills in ML, Computer Vision, LLM, and Gen AI
+🚀 I'm currently improving my skills in ML, Computer Vision, LLM, and Gen AI
 
 ## 💻 Tech Stack
 <!-- Languages -->
