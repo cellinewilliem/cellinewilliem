@@ -1,12 +1,12 @@
 # Hi there, I'm Celline 👋
 
-## 💫 About Me:
+## 💫 About Me
 🤔 Interested in Data & AI\
 💼 Knowledge Engineer at Impala Services Ltd\
 🎓 CUHK Shenzhen grad with a Bachelor of Science in Data Science and Big Data Technology. \
 📚 I'm currently improving my skills in ML, Computer Vision, LLM, and Gen AI
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) 
@@ -42,6 +42,6 @@
 ![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![LaTex](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
-## 🌐 Socials:
+## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cellinewilliem) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cellinewilliem) 
